@@ -1,2 +1,4 @@
 Roboto | Regular | fonts/roboto/Roboto-VariableFont_wdth,wght.ttf | Latn,Cyrl | OFL-1.1 | fonts/roboto/OFL.txt
 Roboto | Italic | fonts/roboto/Roboto-Italic-VariableFont_wdth,wght.ttf | Latn,Cyrl | OFL-1.1 | fonts/roboto/OFL.txt
+Tiro Bangla | Regular | fonts/tiro-bangla/TiroBangla-Regular.ttf | Beng,Latn | OFL-1.1 | fonts/tiro-bangla/OFL.txt
+Tiro Bangla | Italic | fonts/tiro-bangla/TiroBangla-Italic.ttf | Beng,Latn | OFL-1.1 | fonts/tiro-bangla/OFL.txt
