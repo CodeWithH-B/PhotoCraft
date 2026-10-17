@@ -1,0 +1,2 @@
+Roboto | Regular | fonts/roboto/Roboto-VariableFont_wdth,wght.ttf | Latn,Cyrl | OFL-1.1 | fonts/roboto/OFL.txt
+Roboto | Italic | fonts/roboto/Roboto-Italic-VariableFont_wdth,wght.ttf | Latn,Cyrl | OFL-1.1 | fonts/roboto/OFL.txt
